@@ -1,1 +1,1 @@
-blog
+This is a Blog
